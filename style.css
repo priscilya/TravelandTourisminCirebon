@@ -1,0 +1,30 @@
+.container-fluid img {
+    height: 50px;
+    width: 50px;
+}
+
+.jumbotron {
+    background-image: url('img/awal.jpg');
+    background-attachment: fixed;
+    color: black;
+    background-size: cover;
+    background-position: 0 -50px;
+    height: 400px;
+    padding-top: 2rem;
+    text-shadow: 100px;
+}
+
+.footer {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.footer-logo {
+    float: left;
+    font-size: 15px;
+}
+
+.footer-copy {
+    float: right;
+    font-size: 15px;
+}
